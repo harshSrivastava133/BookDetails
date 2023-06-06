@@ -12,7 +12,7 @@ body {
   transition:opacity 0.5s linear;
 }
 .arrow {
-  border: solid #0000008e;
+  border: solid #ffffff8e;
   border-width: 0 3px 3px 0;
   display: inline-block;
   padding: 6px;
